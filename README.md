@@ -21,15 +21,15 @@ after a long research. On the page they can find a lot of information about inte
 
 ***
 ## Usage
+![](images/3.png)
+![](images/4.png)
+
+When the guest clicked the read more button , more information will appear.
 
 ![](images/1.png)
 
 ![](images/2.png)
-When the guest clicked the read more button , more information will appear.
 
-
-![](images/3.png)
-![](images/4.png)
 
 admins can be easily reached by using the communication section to make suggestions, send messages or make any complaints. After sending messages and click the "SEND" button , there should be an alert on the screen to confirm that message is received.
 
